@@ -1,0 +1,23 @@
+{
+  "name": "twnloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forseyear/twnloader.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forseyear/twnloader/issues"
+  },
+  "homepage": "https://github.com/forseyear/twnloader#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "twitter": "^1.7.1"
+  }
+}
